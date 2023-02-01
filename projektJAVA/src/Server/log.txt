@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-13T18:56:52.001127900Z</date>
+  <millis>1623610612001</millis>
+  <nanos>127900</nanos>
+  <sequence>0</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Serwer zostal uruchomiony</message>
+  <param>ServerSocket[addr=0.0.0.0/0.0.0.0,localport=7777]</param>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-14T12:07:13.987029200Z</date>
+  <millis>1623672433987</millis>
+  <nanos>29200</nanos>
+  <sequence>0</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Serwer zostal uruchomiony</message>
+  <param>ServerSocket[addr=0.0.0.0/0.0.0.0,localport=7777]</param>
+</record>
+<record>
+  <date>2021-06-14T12:07:31.038603200Z</date>
+  <millis>1623672451038</millis>
+  <nanos>603200</nanos>
+  <sequence>1</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 0 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<record>
+  <date>2021-06-14T12:07:32.235746Z</date>
+  <millis>1623672452235</millis>
+  <nanos>746000</nanos>
+  <sequence>2</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 1 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-14T12:15:17.805644800Z</date>
+  <millis>1623672917805</millis>
+  <nanos>644800</nanos>
+  <sequence>0</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Serwer zostal uruchomiony</message>
+  <param>ServerSocket[addr=0.0.0.0/0.0.0.0,localport=7777]</param>
+</record>
+<record>
+  <date>2021-06-14T12:15:48.928793100Z</date>
+  <millis>1623672948928</millis>
+  <nanos>793100</nanos>
+  <sequence>1</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 0 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<record>
+  <date>2021-06-14T12:15:55.189452800Z</date>
+  <millis>1623672955189</millis>
+  <nanos>452800</nanos>
+  <sequence>2</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 1 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-14T12:16:25.426471600Z</date>
+  <millis>1623672985426</millis>
+  <nanos>471600</nanos>
+  <sequence>0</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Serwer zostal uruchomiony</message>
+  <param>ServerSocket[addr=0.0.0.0/0.0.0.0,localport=7777]</param>
+</record>
+<record>
+  <date>2021-06-14T12:16:39.342533500Z</date>
+  <millis>1623672999342</millis>
+  <nanos>533500</nanos>
+  <sequence>1</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 0 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<record>
+  <date>2021-06-14T12:16:39.502169800Z</date>
+  <millis>1623672999502</millis>
+  <nanos>169800</nanos>
+  <sequence>2</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 1 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-14T12:17:33.013831600Z</date>
+  <millis>1623673053013</millis>
+  <nanos>831600</nanos>
+  <sequence>0</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Serwer zostal uruchomiony</message>
+  <param>ServerSocket[addr=0.0.0.0/0.0.0.0,localport=7777]</param>
+</record>
+<record>
+  <date>2021-06-14T12:17:49.604659900Z</date>
+  <millis>1623673069604</millis>
+  <nanos>659900</nanos>
+  <sequence>1</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 0 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
+<record>
+  <date>2021-06-14T12:17:50.017022600Z</date>
+  <millis>1623673070017</millis>
+  <nanos>22600</nanos>
+  <sequence>2</sequence>
+  <logger>my error log</logger>
+  <level>INFO</level>
+  <class>Server.Server</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Gracz: 1 Przyszedl z:</message>
+  <param>/127.0.0.1</param>
+</record>
